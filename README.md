@@ -1,3 +1,5 @@
-# AI is learning the Flappy Bird rules
+# FlappyBirdAI
+An AI plays flappy bird! Using the NEAT python module and pygame
 
-python(pygame, neat)
+# Instructions
+Simply run flappy_bird.py and watch an AI start training itself and learing the Flappy Bird rules
